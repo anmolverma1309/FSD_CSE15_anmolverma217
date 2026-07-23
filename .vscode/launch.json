@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "fcfs",
+      "request": "launch",
+      "mainClass": "fcfs",
+      "projectName": "FSD_anmolverma217_9721d490"
+    },
+    {
+      "type": "java",
+      "name": "experiment1",
+      "request": "launch",
+      "mainClass": "experiment1",
+      "projectName": "FSD_anmolverma217_9721d490"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/earlier work on tic-tac-toe/FSD_anmolverma217",
+      "program": "d:/earlier work on tic-tac-toe/FSD_anmolverma217/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
