@@ -1,0 +1,27 @@
+object then throuable
+
+1. error 
+system related faults
+jvm realted issues memory issue, i/o issue
+
+2. 
+exception
+application related faultsbull pointer
+array out of bond
+file not found 
+
+java provide 5 keyword for exception handling :
+try catch finally throw throws
+
+
+whnevr exp obj of exp cls
+public clss ex{
+    prime(string args[]{
+        try{
+            sop(try);
+        }
+        catch{
+            gg sout = catch;
+        }
+    })
+}
