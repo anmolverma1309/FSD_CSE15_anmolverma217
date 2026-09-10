@@ -1,0 +1,53 @@
+/* Page background image */
+body {
+  margin: 0;
+  padding: 20px;
+  background-image: url("background-page.jpg");
+  background-size: cover;          /* fill page */ 
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: Arial, sans-serif;  /* default font */
+}
+
+/* Different fonts and styles */
+.title {
+  font-family: "Times New Roman", serif;
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 1px 1px 3px #000;
+}
+
+.serif-text {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  color: #f0f0f0;
+  font-style: italic;
+}
+
+.sans-text {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 20px;
+  color: #ffe680;
+  font-weight: 600;
+}
+
+/* Single element with its own background image */
+.card {
+  width: 60%;
+  padding: 20px;
+  margin: 30px auto;
+  background-image: url("card-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 10px;
+  color: #000000;
+}
+
+.card-heading {
+  font-family: "Courier New", monospace;
+  font-size: 24px;
+  font-weight: bold;
+}
