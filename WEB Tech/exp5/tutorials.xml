@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type = "text/css" href="style.css"?>
+<!DOCTYPE tutorials SYSTEM "tutorials.dtd">
+<tutorials>
+    <tutorial>
+        <title>Introduction to Python</title>
+        <category>Programming</category>
+        <duration>3 hours</duration>
+        <instructor>John Doe</instructor>
+        <fee>$2</fee>
+    </tutorial>
+    <tutorial>
+        <title>Web Development </title>
+        <category>Web Development</category>
+        <duration>5 hours</duration>
+        <instructor>Jane Smith</instructor>
+        <fee>$7.5</fee>
+    </tutorial>
+    <tutorial>
+        <title>DSA</title>
+        <category>DSA</category>
+        <duration>4 hours</duration>
+        <instructor>Emily Johnson</instructor>
+        <fee>$10000</fee>
+    </tutorial>
+
+  </tutorials>

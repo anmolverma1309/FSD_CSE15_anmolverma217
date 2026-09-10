@@ -1,0 +1,50 @@
+tutorials {
+    display: block;
+    font-family: Arial, sans-serif;
+    margin: 10px 2px;
+}
+
+tutorial {
+    display: block;
+    border: 1px solid #5b9bd5;
+    border-radius: 5px;
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: white;
+}
+
+title {
+    display: block;
+    color: #1f5f91;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+category {
+    display: block;
+    font-size: 11px;
+    color: #333;
+    margin-bottom: 2px;
+}
+
+duration {
+    display: block;
+    font-size: 11px;
+    color: #333;
+    margin-bottom: 2px;
+}
+
+instructor {
+    display: block;
+    font-size: 11px;
+    color: #333;
+    margin-bottom: 2px;
+}
+
+fee {
+    display: block;
+    color: green;
+    font-size: 11px;
+    font-weight: bold;
+}
